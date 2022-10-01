@@ -1,0 +1,88 @@
+.component-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  column-gap: var(--dl-space-space-halfunit);
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-700);
+  border-style: dotted;
+  border-width: 1px;
+  margin-right: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-white);
+}
+.component-text {
+  color: var(--dl-color-gray-black_text);
+  font-size: 1.2em;
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.component-container1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component-text1 {
+  color: var(--dl-color-gray-500);
+  font-size: 1.4em;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.component-text2 {
+  color: var(--dl-color-gray-500);
+  font-size: 1em;
+  font-style: normal;
+  text-align: center;
+  font-weight: 300;
+}
+.component-link {
+  color: var(--dl-color-gray-500);
+  font-size: 0.9em;
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 400;
+  text-decoration: underline;
+}
+.component-root-class-name {
+  margin: 0px;
+}
+.component-root-class-name1 {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.component-root-class-name2 {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.component-root-class-name3 {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.component-root-class-name4 {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
